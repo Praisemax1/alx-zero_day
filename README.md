@@ -1,1 +1,1 @@
-My first readme
+Coding is not for the weak
